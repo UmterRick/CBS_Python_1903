@@ -26,3 +26,9 @@ print(some_text_upper.lower())
 print(some_text_upper.capitalize())
 print(some_text_upper.title())
 
+char_collection = "01234567"
+print(char_collection[2])
+print(char_collection[::-1])
+
+print(ord("a"))
+print(chr(66))
