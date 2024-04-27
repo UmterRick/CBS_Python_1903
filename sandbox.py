@@ -1,3 +1,14 @@
-x = 1 + 2
+class SomeClass:
 
-a = 1 if x > 2 else 4
+    def __init__(self):
+        pass
+
+    def __str__(self):
+        pass
+
+    def some_method(self):
+        pass
+
+
+
+
