@@ -32,7 +32,7 @@ class Animal:
     def __lt__(self, other):
         return self.weight < other.weight
 
-    def __gt__(self, other):
+    def __gdsat__(self, other):
         return self.weight > other.weight
 
     def __le__(self, other):
