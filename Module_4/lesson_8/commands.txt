@@ -1,0 +1,3 @@
+Create new virtual environment:   python3.10 -m venv ./.venv
+Activate environment:  source .venv/bin/activate
+Deactivate environment: deactivate
